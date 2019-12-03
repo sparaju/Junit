@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5159" started-at="2019-12-01T20:24:48 CST" finished-at="2019-12-01T20:24:53 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5159" started-at="2019-12-01T20:24:48 CST" finished-at="2019-12-01T20:24:53 CST">
+      <class name="TestJunit3">
+        <test-method status="PASS" signature="validAllBoxChecked()[pri:0, instance:TestJunit3@5f71c76a]" name="validAllBoxChecked" duration-ms="5115" started-at="2019-12-01T20:24:48 CST" finished-at="2019-12-01T20:24:53 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validAllBoxChecked -->
+      </class> <!-- TestJunit3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
