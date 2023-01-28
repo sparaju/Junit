@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5159" started-at="2019-12-01T20:24:48 CST" finished-at="2019-12-01T20:24:53 CST">
+  <suite started-at="2023-01-28T11:43:46 PST" name="Default suite" finished-at="2023-01-28T11:43:48 PST" duration-ms="2175">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5159" started-at="2019-12-01T20:24:48 CST" finished-at="2019-12-01T20:24:53 CST">
+    <test started-at="2023-01-28T11:43:46 PST" name="Default test" finished-at="2023-01-28T11:43:48 PST" duration-ms="2175">
       <class name="TestJunit3">
-        <test-method status="PASS" signature="validAllBoxChecked()[pri:0, instance:TestJunit3@5f71c76a]" name="validAllBoxChecked" duration-ms="5115" started-at="2019-12-01T20:24:48 CST" finished-at="2019-12-01T20:24:53 CST">
+        <test-method signature="validAllBoxChecked()[pri:0, instance:TestJunit3@248e319b]" started-at="2023-01-28T11:43:46 PST" name="validAllBoxChecked" finished-at="2023-01-28T11:43:48 PST" duration-ms="2147" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validAllBoxChecked -->
